@@ -68,7 +68,7 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 - **Languages:** Chinese (Native proficiency) / English (Toefl)
 - **Music skills:** NetEase CloudMusic Certified Musician / Composing & Arranging (Ableton Live, Cubase) / Piano (Grade 5 Certified by the Chinese Musicians Association)
 
-# 🎵 Music journey
+# 🎵 Music Journey
 
 - *2019.02.09* <img src='images/fff.png' style='width: 8em;'> [Flesh For Fantasy](https://music.163.com/song?id=1345044945&userid=30749734) \|
 Composition, Lyrics, Arrangement, Vocal, Mixing
