@@ -17,42 +17,64 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m a Master's student at [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Music Information Retrieval, Audio Signal Processing, Deep Learning, Fashion AI. I have published several papers at the top international AI conferences such as ICASSP, ISMIR, ICME etc.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: One paper is accepted by ICASSP 2023!
+- *2022.07*: One paper is accepted by ISMIR 2022!
+- *2022.02*: One paper is accepted by ICME 2022!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## <img src='./images/Guzheng.png' style='width: 6em;'> Guzheng playing technique detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/guzhengtech99.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Frame-Level Multi-Label Playing Technique Detection Using Multi-Scale Network and Self-Attention Mechanism](https://arxiv.org/pdf/2303.13272.pdf) \\
+**Dichucheng Li**, Mingjin Che, Wenwu Meng, Yulun Wu, Yi Yu, Fan Xia and Wei Li
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://lidcc.github.io/GuzhengTech99/) \| [**Code**](https://github.com/LiDCC/GuzhengTech99) \| [**Dataset**](https://ccmusic-database.github.io/en/database/csmtd.html#Tech99)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `ISMIR 2022` [Playing Technique Detection by Fusing Note Onset Information in Guzheng Performance](https://ismir2022program.ismir.net/poster_48.html), **Dichucheng Li**, Yulun Wu, Qinyu Li, Jiahao Zhao, Yi Yu, Fan Xia, Wei Li \| [**Dataset**](https://ccmusic-database.github.io/en/database/ccm.html#GZTech)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 😄 Multimodal Music Emotion Recognition
+- `ICME 2022` [Multimodal Music Emotion Recognition with Hierarchical Cross-Modal Attention Network](https://ieeexplore.ieee.org/abstract/document/9859812/), Jiahao Zhao, Ganghui Ru, Yi Yu, Yulun Wu, **Dichucheng Li**, Wei Li
+
+## 👗 Sales Forecasting of New Clothing Products
+- `Journal of Donghua University (English Edition)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Networ (Submitted to), Wenda Shi, **Dichucheng Li**, Jingsong Du
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - 2024.01 (now)*, Master in Artificial Intelligence, School of Computer Science, Fudan University, Shanghai.
+- *2017.09 - 2021.06*, Bachelor in Software Engineering, College of Information, Liaoning Univeristy, Shenyang.
+- *2014.09 - 2017.06*, Hangzhou Xuejun High School, Hangzhou.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - now*, [bilibili](https://ir.bilibili.com/), Speech & Audio & Music Team, Shanghai, China.
+
+# 💬 Academic Experience
+- *2022.12*, Reviewer of ICASSP 2023
+- *2022.12*, [Oral and Poster Presentations at ISMIR 2022](https://ismir2022program.ismir.net/poster_48.html)
+- *2021.09 - 2022.01*, Teaching Assistant of "Introduction to Information Retrieval" 
+- *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
+
+# 👌 Skills List
+- **Programming languages:** Python/ C++/ C 
+- **Languages:** Chinese (Native proficiency) / English (Toefl)
+- **Music skills:** NetEase CloudMusic Certified Musician / Composing & Arranging (Ableton Live, Cubase) / Piano (Grade 5 Certified by the Chinese Musicians Association)
+
+# 🎵 Music journey
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flesh For Fantasy](https://music.163.com/song?id=1345044945&userid=30749734) \\
+Composition, Lyrics, Arrangement, Vocal, Mixing
+
+</div>
+</div>
+- *2019.05* Music producer of Dance Troupe of College of Information, LNU
