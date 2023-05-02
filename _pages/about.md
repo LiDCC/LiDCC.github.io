@@ -23,9 +23,9 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 
 
 # 🔥 News
-- *2022.02*: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org)!
+- *2023.02*: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org)!
 - *2022.07*: One paper is accepted by [ISMIR 2022](https://ismir2022.ismir.net)!
-- *2022.02*: One paper is accepted by [ICME 2022](https://2022.ieeeicme.org)!
+- *2022.03*: One paper is accepted by [ICME 2022](https://2022.ieeeicme.org)!
 
 # 📝 Publications 
 
