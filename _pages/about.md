@@ -23,13 +23,13 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 
 
 # 🔥 News
-- *2022.02*: One paper is accepted by ICASSP 2023!
-- *2022.07*: One paper is accepted by ISMIR 2022!
-- *2022.02*: One paper is accepted by ICME 2022!
+- *2022.02*: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org)!
+- *2022.07*: One paper is accepted by [ISMIR 2022](https://ismir2022.ismir.net)!
+- *2022.02*: One paper is accepted by [ICME 2022](https://2022.ieeeicme.org)!
 
 # 📝 Publications 
 
-## <img src='./images/Guzheng.png' style='width: 6em;'> Guzheng playing technique detection
+## <img src='./images/Guzheng.png' style='width: 3em;'> Guzheng playing technique detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/guzhengtech99.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +47,7 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 - `ICME 2022` [Multimodal Music Emotion Recognition with Hierarchical Cross-Modal Attention Network](https://ieeexplore.ieee.org/abstract/document/9859812/), Jiahao Zhao, Ganghui Ru, Yi Yu, Yulun Wu, **Dichucheng Li**, Wei Li
 
 ## 👗 Sales Forecasting of New Clothing Products
-- `Journal of Donghua University (English Edition)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Networ (Submitted to), Wenda Shi, **Dichucheng Li**, Jingsong Du
+- `Journal of Donghua University (English Edition)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network (Submitted), Wenda Shi, **Dichucheng Li**, Jingsong Du
 
 # 📖 Educations
 - *2021.09 - 2024.01 (now)*, Master in Artificial Intelligence, School of Computer Science, Fudan University, Shanghai.
@@ -69,10 +69,11 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 - **Music skills:** NetEase CloudMusic Certified Musician / Composing & Arranging (Ableton Live, Cubase) / Piano (Grade 5 Certified by the Chinese Musicians Association)
 
 # 🎵 Music journey
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/fff.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flesh For Fantasy](https://music.163.com/song?id=1345044945&userid=30749734) \\
+*2019.02.09*
 Composition, Lyrics, Arrangement, Vocal, Mixing
 
 </div>
