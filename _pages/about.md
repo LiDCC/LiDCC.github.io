@@ -69,13 +69,8 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 - **Music skills:** NetEase CloudMusic Certified Musician / Composing & Arranging (Ableton Live, Cubase) / Piano (Grade 5 Certified by the Chinese Musicians Association)
 
 # 🎵 Music journey
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fff.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Flesh For Fantasy](https://music.163.com/song?id=1345044945&userid=30749734) \\
-*2019.02.09*
+- *2019.02.09* <img src='images/fff.png' style='width: 3em;'> [Flesh For Fantasy](https://music.163.com/song?id=1345044945&userid=30749734) \|
 Composition, Lyrics, Arrangement, Vocal, Mixing
 
-</div>
-</div>
 - *2019.05* Music producer of Dance Troupe of College of Information, LNU
