@@ -29,7 +29,7 @@ My research interests include Music Information Retrieval, Audio Signal Processi
 
 # 📝 Publications 
 
-## <img src='./images/Guzheng.png' style='width: 3em;'> Guzheng playing technique detection
+## <img src='./images/Guzheng.png' style='width: 3em;'> Guzheng Playing Technique Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/guzhengtech99.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
