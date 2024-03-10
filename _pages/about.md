@@ -68,7 +68,7 @@ His research interests include Music Information Retrieval (MIR), Large Language
 - *2023.05 - 2023.07*, [bilibili](https://ir.bilibili.com/), Speech & Audio & Music Team, Shanghai, China.
 
 # 💬 Academic Experience
--* 2023.10*, Reviewer of ICASSP 2024
+- *2023.10*, Reviewer of ICASSP 2024
 - *2023.06*, Presentations at ICASSP 2023, Rhodes, Greece.
 - *2022.12*, Reviewer of ICASSP 2023
 - *2022.12*, [Oral and Poster Presentations at ISMIR 2022](https://ismir2022program.ismir.net/poster_48.html)
@@ -86,3 +86,7 @@ His research interests include Music Information Retrieval (MIR), Large Language
 Composition, Lyrics, Arrangement, Vocal, Mixing
 
 - *2019.05* Music producer of Dance Troupe of College of Information, LNU
+
+# 👬 Contact Me
+- **E-mail:** dccli21@m.fudan.edu.cn
+- **WeChat:** <img src='images/QRcode.jpg' style='width: 8em;'> 
