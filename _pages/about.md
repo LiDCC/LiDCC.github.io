@@ -37,7 +37,7 @@ His research interests include Music Information Retrieval (MIR), Large Language
 
 - `ICASSP 2024` [MERTech: Instrument Playing Technique Detection Using Self-Supervised Pretrained Model With Multi-Task Finetuning](https://arxiv.org/abs/2310.09853), **Dichucheng Li**, Yinghao Ma, Weixing Wei, Qiuqiang Kong, Yulun Wu, Mingjin Che, Fan Xia, Emmanouil Benetos, Wei Li \| [**Code**](https://github.com/LiDCC/MERTech)
   
-- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/guzhengtech99.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
