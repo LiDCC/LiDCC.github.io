@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dichucheng Li is currently a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/). He earned his master’s degree from [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) in January 2024. He has been working on music information retrieval (MIR) since 2021, co-authoring 8 papers in top conferences like ISMIR, ICASSP, and ICME. He was a reviewer for ICASSP 2023 and 2024. His research on Guzheng playing technique detection during his master's degree has made significant contributions to the relatively unexplored field of computational musicology of Chinese folk music. He also joined Bilibili as a research and development intern, working on voice conversion for the company’s virtual singer product - "Luo Tianyi".
+Dichucheng Li is a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/). He earned his master’s degree from [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) in January 2024. He has been working on music information retrieval (MIR) since 2021, publishing papers in top-tier conferences like ISMIR, ICASSP, and ICME. He was a reviewer for ICASSP. His research on Guzheng playing technique detection during master's degree has made significant contributions to the relatively unexplored field of computational musicology of Chinese folk music. He also joined Bilibili as a research and development intern, working on voice conversion for the company’s virtual singer product - "Luo Tianyi".
 
-My research interests include Music Information Retrieval, Large Language Model (LLM), Audio Signal Processing, Deep Learning, Fashion AI. I have published several papers at the top international AI conferences such as ICASSP, ISMIR, ICME etc.
+His research interests include Music Information Retrieval (MIR), Large Language Model (LLM), Music Generation, Audio Signal Processing, Deep Learning, Fashion AI. 
 
 
 # 🔥 News
+- *2024.01*: Graduated from [Fudan University](https://www.fudan.edu.cn) and got my master's degree.
+- *2023.12*: Started working as a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)
+- *2023.12*: Two paper are accepted by [ICASSP 2024](https://2024.ieeeicassp.org/)
+- *2023.05*: Started my internship in [bilibili](https://ir.bilibili.com/)
 - *2023.02*: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org)!
 - *2022.07*: One paper is accepted by [ISMIR 2022](https://ismir2022.ismir.net)!
 - *2022.03*: One paper is accepted by [ICME 2022](https://2022.ieeeicme.org)!
@@ -31,6 +35,9 @@ My research interests include Music Information Retrieval, Large Language Model 
 
 ## <img src='./images/Guzheng.png' style='width: 3em;'> Guzheng Playing Technique Detection
 
+- `ICASSP 2024` [MERTech: Instrument Playing Technique Detection Using Self-Supervised Pretrained Model With Multi-Task Finetuning](https://arxiv.org/abs/2310.09853), **Dichucheng Li**, Yinghao Ma, Weixing Wei, Qiuqiang Kong, Yulun Wu, Mingjin Che, Fan Xia, Emmanouil Benetos, Wei Li \| [**Code**](https://github.com/LiDCC/MERTech)
+  
+- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/guzhengtech99.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,29 +50,34 @@ My research interests include Music Information Retrieval, Large Language Model 
 
 - `ISMIR 2022` [Playing Technique Detection by Fusing Note Onset Information in Guzheng Performance](https://ismir2022program.ismir.net/poster_48.html), **Dichucheng Li**, Yulun Wu, Qinyu Li, Jiahao Zhao, Yi Yu, Fan Xia, Wei Li \| [**Dataset**](https://ccmusic-database.github.io/en/database/ccm.html#GZTech)
 
-## 😄 Multimodal Music Emotion Recognition
+## 😄 Music/Speech Emotion Recognition
+- `ICASSP 2024` [Ms-senet: Enhancing Speech Emotion Recognition Through Multi-scale Feature Fusion With Squeeze-and-excitation Blocks](https://arxiv.org/abs/2312.11974), Mengbo Li, Yuanzhong Zheng, **Dichucheng Li**, Yulun Wu, Yaoxuan Wang, Haojun Fei
+  
 - `ICME 2022` [Multimodal Music Emotion Recognition with Hierarchical Cross-Modal Attention Network](https://ieeexplore.ieee.org/abstract/document/9859812/), Jiahao Zhao, Ganghui Ru, Yi Yu, Yulun Wu, **Dichucheng Li**, Wei Li
 
 ## 👗 Sales Forecasting of New Clothing Products
 - `Journal of Donghua University (English Edition)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network (Submitted), Wenda Shi, **Dichucheng Li**, Jingsong Du
 
 # 📖 Educations
-- *2021.09 - 2024.01 (now)*, Master in Artificial Intelligence, School of Computer Science, Fudan University, Shanghai.
+- *2021.09 - 2024.01*, Master in Computer Technology, School of Computer Science, Fudan University, Shanghai.
 - *2017.09 - 2021.06*, Bachelor in Software Engineering, College of Information, Liaoning Univeristy, Shenyang.
 - *2014.09 - 2017.06*, Hangzhou Xuejun High School, Hangzhou.
 
-# 💻 Internships
-- *2023.05 - now*, [bilibili](https://ir.bilibili.com/), Speech & Audio & Music Team, Shanghai, China.
+# 💻 Working Experience
+- *2023.12 - now*, [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), [DSP Lab](http://dsp.ee.cuhk.edu.hk/), Hong Kong, China.
+- *2023.05 - 2023.07*, [bilibili](https://ir.bilibili.com/), Speech & Audio & Music Team, Shanghai, China.
 
 # 💬 Academic Experience
+-* 2023.10*, Reviewer of ICASSP 2024
+- *2023.06*, Presentations at ICASSP 2023, Rhodes, Greece.
 - *2022.12*, Reviewer of ICASSP 2023
 - *2022.12*, [Oral and Poster Presentations at ISMIR 2022](https://ismir2022program.ismir.net/poster_48.html)
 - *2021.09 - 2022.01*, Teaching Assistant of "Introduction to Information Retrieval" 
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
 
 # 👌 Skills List
-- **Programming languages:** Python/ C++/ C 
-- **Languages:** Chinese (Native proficiency) / English (Toefl)
+- **Programming languages:** Python/ C++/ C, Pytorch, bash
+- **Languages:** Chinese (Native proficiency) / English (Toefl=102)
 - **Music skills:** NetEase CloudMusic Certified Musician / Composing & Arranging (Ableton Live, Cubase) / Piano (Grade 5 Certified by the Chinese Musicians Association)
 
 # 🎵 Music Journey
