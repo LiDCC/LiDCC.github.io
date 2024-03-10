@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dichucheng Li (李笛出乘)"
-  avatar           : "images/dccli_profile.jpg"
+  avatar           : "images/dccli_profile.png"
   bio              : "the Chinese University of Hong Kong"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ziyr9rEAAAAJ"
