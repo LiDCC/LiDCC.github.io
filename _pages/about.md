@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Master's student at [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
+Dichucheng Li is currently a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/). He earned his master’s degree from [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) in January 2024. He has been working on music information retrieval (MIR) since 2021, co-authoring 8 papers in top conferences like ISMIR, ICASSP, and ICME. He was a reviewer for ICASSP 2023 and 2024. His research on Guzheng playing technique detection during his master's degree has made significant contributions to the relatively unexplored field of computational musicology of Chinese folk music. He also joined Bilibili as a research and development intern, working on voice conversion for the company’s virtual singer product - "Luo Tianyi".
 
-My research interests include Music Information Retrieval, Audio Signal Processing, Deep Learning, Fashion AI. I have published several papers at the top international AI conferences such as ICASSP, ISMIR, ICME etc.
+My research interests include Music Information Retrieval, Large Language Model (LLM), Audio Signal Processing, Deep Learning, Fashion AI. I have published several papers at the top international AI conferences such as ICASSP, ISMIR, ICME etc.
 
 
 # 🔥 News
