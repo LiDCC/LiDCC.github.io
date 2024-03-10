@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dichucheng Li is a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/). He earned his master’s degree from [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) in January 2024. He has been working on music information retrieval (MIR) since 2021, publishing papers in top-tier conferences like ISMIR, ICASSP, and ICME. He was a reviewer for ICASSP. His research on Guzheng playing technique detection during master's degree has made significant contributions to the relatively unexplored field of computational musicology of Chinese folk music. He also joined Bilibili as a research and development intern, working on voice conversion.
+Dichucheng Li is a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Qiuqiang Kong](https://qiuqiangkong.github.io/). He earned his master’s degree from [Fudan University](https://www.fudan.edu.cn), [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), under the supervision of [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) in January 2024. 
+
+He has been working on music information retrieval (MIR) since 2021, publishing papers in top-tier conferences like ISMIR, ICASSP, and ICME. He was a reviewer for ICASSP. His research on Guzheng playing technique detection during master's degree has made significant contributions to the relatively unexplored field of computational musicology of Chinese folk music. 
+
+He also joined Bilibili as a research and development intern, working on voice conversion.
 
 His research interests include Music Information Retrieval (MIR), Large Language Model (LLM), Music Generation, Audio Signal Processing, Deep Learning, Fashion AI. 
 
