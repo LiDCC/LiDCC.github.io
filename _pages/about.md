@@ -89,4 +89,3 @@ Composition, Lyrics, Arrangement, Vocal, Mixing
 
 # 👬 Contact Me
 - **E-mail:** dccli21@m.fudan.edu.cn
-- **WeChat:** <img src='images/QRcode.jpg' style='width: 8em;'> 
