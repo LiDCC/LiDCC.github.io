@@ -27,6 +27,7 @@ His research interests include Music Information Retrieval (MIR), Large Language
 
 
 # 🔥 News
+- *2024.03*: Two papers are accepted by [ICME 2024](https://2024.ieeeicme.org/)
 - *2024.01*: Graduated from [Fudan University](https://www.fudan.edu.cn) and got my master's degree.
 - *2023.12*: Started working as a research assistant in [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)
 - *2023.12*: Two papers are accepted by [ICASSP 2024](https://2024.ieeeicassp.org/)
